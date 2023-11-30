@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ![Jiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjiu0208&show_icons=true&theme=radical)
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-000000?style=#44A833&logo=Anaconda&logoColor=000000"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Anaconda-000000?style=#44A833&logo=Anaconda&logoColor=000000"/></a>
