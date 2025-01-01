@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+🔭 I’m currently working on Data Engineering
+📫 How to reach me: joy002208@gmail.com
 
 ![Jiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=parkjiu0208&show_icons=true&theme=radical)
 
