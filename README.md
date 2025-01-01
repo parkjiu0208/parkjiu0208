@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=Python">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
 
